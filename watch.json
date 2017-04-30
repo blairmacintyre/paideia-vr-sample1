@@ -11,6 +11,8 @@
       "^dist/"
     ],
     "include": [
+      "assets.js",
+      "server.js",
       "^sh/start$",
       "\\.json$"
     ]
